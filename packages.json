@@ -5,7 +5,7 @@
       "version": "0.1.0",
       "dname": "Git Sync",
       "desc": "Interface de synchronisation de dossiers partag\u00e9s vers GitHub",
-      "download_url": "https://github.com/MiGaNuTs/MySpkg/releases/download/v0.1.0/gitsyncpkg-0.1.0.spk",
+      "download_url": "https://raw.githubusercontent.com/MiGaNuTs/MySpkg/main/dist/gitsyncpkg-0.1.0.spk",
       "checksum": "2e5947092e8eac9940048d183052162d",
       "arch": [
         "noarch"

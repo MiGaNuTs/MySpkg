@@ -1,3 +1,0 @@
-#!/bin/sh
-/var/packages/gitsyncpkg/scripts/start-stop-status stop
-exit 0

@@ -1,0 +1,20 @@
+{
+  "id": "mon-depot-tiers",
+  "name": "Mon Dépôt Tiers",
+  "version": "1",
+  "description": "Dépôt personnalisé pour Synology",
+  "maintainer": "Votre Nom",
+  "packages": [
+    {
+      "id": "MonPackage",
+      "name": "MonPackage",
+      "version": "1.0.0",
+      "description": "Mon package personnalisé",
+      "os_min_ver": "7.0",
+      "arch": "all",
+      "install_dep": ["python3"],
+      "size": 1024,
+      "changelog": "Version initiale."
+    }
+  ]
+}

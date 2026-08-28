@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p "${SYNOPKG_PKGDEST}/../var"
+exit 0

@@ -1,0 +1,16 @@
+{
+  "packages": [
+    {
+      "package": "gitsyncpkg",
+      "version": "0.1.0",
+      "dname": "Git Sync",
+      "desc": "Interface de synchronisation de dossiers partag\u00e9s vers GitHub",
+      "download_url": "https://github.com/MiGaNuTs/MySpkg/releases/download/v0.1.0/gitsyncpkg-0.1.0.spk",
+      "checksum": "2e5947092e8eac9940048d183052162d",
+      "arch": [
+        "noarch"
+      ],
+      "os_min_ver": "7.0-40000"
+    }
+  ]
+}
